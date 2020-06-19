@@ -525,8 +525,8 @@ header .container {
   color: #fff; }
 
 .plano {
-  background: white;
-  width: 18em;
+  background: #797878;
+  width: 288px;
   display: inline-block;
   margin: 1em 0 0 1.4em;
   padding-bottom: 2em; }
@@ -686,8 +686,8 @@ footer::before {
   z-index: -1; }
 
 footer .container {
-  padding-top: 3em;
-  height: 6.5em;
+  padding-top: 48px;
+  height: 104px;
   position: relative; }
 
 footer .container img {

@@ -1,0 +1,4 @@
+@function multiplica-pela-fonte($multiplicador) {
+    //@debug round($multiplicador * $font-size-padrao);
+    @return round($multiplicador * $font-size-padrao);
+}
